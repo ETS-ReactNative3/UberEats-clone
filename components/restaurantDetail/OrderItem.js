@@ -23,7 +23,7 @@ export default function OrderItem({ item }) {
       </Text>
       <Text
         style={{
-          fontsize: 16,
+          fontSize: 16,
           opacity: 0.7,
         }}
       >
