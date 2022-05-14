@@ -2,6 +2,7 @@
 
 This is a clone of the application Uber Eats.
 
+
 ### Technologies
 
 - React Native
@@ -35,3 +36,6 @@ npm install
 ```console
 npm run ios
 ```
+### This is what it looks like
+
+![Hola](1.png)
