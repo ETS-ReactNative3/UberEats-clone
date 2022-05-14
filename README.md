@@ -44,9 +44,7 @@ npm run android
 
 
 ### This is what it looks like
-<styles> 
-    p {}
-</styles>
+&nbsp;
 <p float="left"  >
 <img src='./assets/images/1.png' width='250'/>
 <img src='./assets/images/2.png' width='250'/>
