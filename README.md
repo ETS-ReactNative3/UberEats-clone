@@ -37,12 +37,12 @@ npm install
 npm run ios
 ```
 ### This is what it looks like
-
+<p float="left">
 <img src='./assets/images/1.png' width='250'/>
 <img src='./assets/images/2.png' width='250'/>
 <img src='./assets/images/3.png' width='250'/>
 <img src='./assets/images/4.png' width='250'/>
 <img src='./assets/images/5.png' width='250'/>
 <img src='./assets/images/6.png' width='250'/>
-
+</p>
 
