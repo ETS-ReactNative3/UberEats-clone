@@ -32,12 +32,22 @@ npm install -g expo-cli
 npm install
 ```
 
-#### Run the React Native App
+#### Run the IOS app
 ```console
 npm run ios
 ```
+
+#### Run the Android app
+```console
+npm run android
+```
+
+
 ### This is what it looks like
-<p float="left">
+<styles> 
+    p {}
+</styles>
+<p float="left"  >
 <img src='./assets/images/1.png' width='250'/>
 <img src='./assets/images/2.png' width='250'/>
 <img src='./assets/images/3.png' width='250'/>
