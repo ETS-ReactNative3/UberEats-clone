@@ -44,3 +44,5 @@ npm run ios
 ![Search Bar using Google API](/assets/images/4.png)
 ![Search Bar using Google API](/assets/images/5.png)[Search Bar using Google API](/assets/images/6.png)
 
+<img src='./assets/images/1.png' width='100'/>
+
