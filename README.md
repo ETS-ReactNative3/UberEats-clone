@@ -36,6 +36,11 @@ npm install
 ```console
 npm run ios
 ```
-### This is what it looks like
+## This is what it looks like
 
-![Hola](1.png)
+![Search Bar using Google API](/assets/images/1.png)
+![Search Bar using Google API](/assets/images/2.png)
+![Search Bar using Google API](/assets/images/3.png)
+![Search Bar using Google API](/assets/images/4.png)
+![Search Bar using Google API](/assets/images/5.png)[Search Bar using Google API](/assets/images/6.png)
+
